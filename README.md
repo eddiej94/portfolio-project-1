@@ -1,2 +1,2 @@
-# portfolio-project-1
+# Techdegree portfolio project 1
  Tech degree project 1
